@@ -1,0 +1,10 @@
+To get papers from Lens.org with SMU byline all years - Ran on 21 March 2019
+
+1. Login to Lens.org account
+2. Select field "Author.Affiliation Name" & "Singapore Management University & Add
+3. Click on Create collection -> SMU-ALL-21-03-2019
+4. Go to folder icon (on left edge) and click on collection just created
+5. Export your collection
+6. All fields
+
+Collection is also available publicly online at https://www.lens.org/lens/scholar/search/results?collectionId=169440 
