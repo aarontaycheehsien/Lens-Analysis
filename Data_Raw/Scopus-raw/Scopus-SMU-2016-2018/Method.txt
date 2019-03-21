@@ -1,0 +1,13 @@
+To get papers with SMU byline published between 2016 to 2018 in Scopus
+
+A query was run in Scopus (www.Scopus.com) on 21th March 2019
+
+1. Click on Affiliations 
+
+2. Enter Singapore Management University & search
+
+3. Limit Year facet to 2016, 2017 & 2018
+
+4. Click on All - Select all 
+
+5. Click Export -> CSV Export -> Export -> Scopus-2016-2018.csv
