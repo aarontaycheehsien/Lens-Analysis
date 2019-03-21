@@ -1,0 +1,13 @@
+To get papers with SMU byline published between 1999 to 2010 in Scopus
+
+A query was run in Scopus (www.Scopus.com) on 21th March 2019
+
+1. Click on Affiliations 
+
+2. Enter Singapore Management University & search
+
+3. Limit Year facet from 1999 to 2010
+
+4. Click on All - Select all 
+
+5. Click Export -> CSV Export -> Export -> Scopus-1999-2010.csv
